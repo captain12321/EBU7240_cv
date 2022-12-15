@@ -5,7 +5,7 @@ import cv2
 
 #--------------------------------- WRITE YOUR CODE HERE ---------------------------------#
 import math
-from sklearn.svm import LinearSVC
+
 
 class SVM:
     def __init__(self, max_iter=100, kernel='linear'):
